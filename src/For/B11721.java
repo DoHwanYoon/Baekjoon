@@ -14,7 +14,6 @@ public class B11721 {
 				System.out.println();
 			}
 			System.out.print(wordArr[i]);
-
 		}
 
 	}
