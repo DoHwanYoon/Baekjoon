@@ -20,7 +20,7 @@ public class B2839 {
 			}
 			if (n % 3 == 0) {
 				y = n / 3;
-			} else if (n % 3 != 0 && n > 0) {
+			} else{
 				n = n + 5 * x;
 				x = 0;
 				while (n != 0) {
