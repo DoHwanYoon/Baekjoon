@@ -27,5 +27,6 @@ public class B1978 {
     		count=0;
     	}
     	System.out.println(result);
+    	scan.close();
     }    
 }
